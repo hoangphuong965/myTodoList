@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    width: 500px;
+}
+
+.input{
+    width: 500px;
+    height: 2rem;
+    margin: 10px 0px 0px 0px;
+}
+
+.form{
+    display: flex;
+}
+
+.icon{
+    margin: 9px 0px 0px 0px;
+    font-size: 2.4rem;
+}

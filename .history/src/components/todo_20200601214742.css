@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    width: 600px;
+}
+
+.input{
+    width: 600px;
+    height: 2rem;
+    margin: 10px 0px 0px 0px;  
+    
+}
+
+.list{
+    margin: 3rem 0 0 0;
+}
+
+.item{
+    margin: 10px 0 0 0;
+    padding: 5px;
+}
+
+.item_li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pen{
+    margin: 2rem;
+}
+
+.btn-success{
+    display: block;
+    width: 600px;
+    margin: 10px 0 0 0;
+    background-color: rgb(182, 24, 76);
+    color: #ffffff;
+    padding: 2px;
+    cursor: pointer;
+}
